@@ -13,9 +13,12 @@
     "duoshuo"
   ],
   "pluginsConfig": {
-        "duoshuo": {
-            "short_name": "eacon",
-            "theme": "default"
-        }
+    "duoshuo": {
+      "short_name": "eacon",
+      "theme": "default"
     }
+  },
+  "search": {
+    "maxIndexSize": 100000000
+  }
 }
